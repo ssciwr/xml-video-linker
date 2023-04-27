@@ -1,0 +1,5 @@
+dash
+pandas
+dash-player
+dash-bootstrap-components
+lxml
